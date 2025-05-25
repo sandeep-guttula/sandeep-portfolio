@@ -8,7 +8,7 @@ export const DATA = {
   location: "Hyderabad, India",
   locationLink: "https://www.google.com/maps/place/hyderabad",
   description:
-    "Software Engineer turned Entrepreneur. I love building useful products, solving real-world problems, and helping people along the way. Always exploring the intersection of code, community, and impact.",
+    "Software Engineer. I love building useful products, solving real-world problems, and helping people along the way. Always exploring the intersection of code, community, and impact.",
   summary:
     "At the start of my tech journey, I taught myself to code and quickly found myself building full-stack applications that solve real-world problems. Since then, I’ve worked as a software engineer on learning platforms and web apps, using everything from Node.js and React Native to Ruby on Rails and FastAPI. \n\n In 2024, I joined Auzmor to help scale their learning management system and previously contributed to InterviewBuddy’s platform, improving performance and user experience. Along the way, I’ve built projects like Donor Spot, a mobile app to connect blood donors, and experimented with AI chatbots and role-based systems just for fun.",
   avatarUrl: "/image.png",
