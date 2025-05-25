@@ -166,13 +166,13 @@ export const DATA = {
         "Firebase",
         "MongoDB",
       ],
-      // links: [
-      //   {
-      //     type: "",
-      //     href: "https://chatcollect.com",
-      //     icon: <Icons.globe className="size-3" />,
-      //   },
-      // ],
+      links: [
+        // {
+        //   type: "",
+        //   href: "",
+        //   icon: <Icons.globe className="size-3" />,
+        // },
+      ],
       image: "/donorspot.avif",
       video: "",
     },
@@ -191,18 +191,13 @@ export const DATA = {
         "REST APIs",
         "Postman",
       ],
-      // links: [
-      //   {
-      //     type: "Website",
-      //     href: "https://magicui.design",
-      //     icon: <Icons.globe className="size-3" />,
-      //   },
-      //   {
-      //     type: "Source",
-      //     href: "https://github.com/magicuidesign/magicui",
-      //     icon: <Icons.github className="size-3" />,
-      //   },
-      // ],
+      links: [
+        // {
+        //   type: "",
+        //   href: "",
+        //   icon: <Icons.globe className="size-3" />,
+        // },
+      ],
       image: "/sms.avif",
       video: "",
     },
@@ -223,13 +218,7 @@ export const DATA = {
         "Zod",
         "Role-Based Access Control (RBAC)",
       ],
-      // links: [
-      //   {
-      //     type: "Website",
-      //     href: "https://automatic.chat",
-      //     icon: <Icons.globe className="size-3" />,
-      //   },
-      // ],
+      links: [],
       image: "/store.avif",
       video: "",
     },
@@ -248,18 +237,7 @@ export const DATA = {
         "Shadcn UI",
         "TypeScript",
       ],
-      // links: [
-      //   {
-      //     type: "Website",
-      //     href: "https://llm.report",
-      //     icon: <Icons.globe className="size-3" />,
-      //   },
-      //   {
-      //     type: "Source",
-      //     href: "https://github.com/dillionverma/llm.report",
-      //     icon: <Icons.github className="size-3" />,
-      //   },
-      // ],
+      links: [],
       image: "/openai.avif",
       video: "",
     }
@@ -337,6 +315,7 @@ export const DATA = {
       period: "2022-2023",
       badges: ["Leadership", "Community"],
       description: "Orchestrated and delivered 11+ tech seminars, mentoring over 800 students on development and cloud skills.",
+      href: ""
     },
     {
       title: "Hacktoberfest Contributor",
@@ -345,6 +324,8 @@ export const DATA = {
       period: "2023",
       badges: ["Open Source", "GitHub"],
       description: "Earned a Hacktoberfest badge for contributing to open-source repositories on GitHub.",
+      href: ""
+
     },
     {
       title: "Java Programming Mentor",
@@ -353,6 +334,8 @@ export const DATA = {
       period: "2022",
       badges: ["Mentorship", "Java"],
       description: "Created and mentored a Java Programming course on Skill Active platform for aspiring developers.",
+      href: ""
+
     }
   ]
 } as const;
