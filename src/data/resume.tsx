@@ -223,7 +223,7 @@ export const DATA = {
       video: "",
     },
     {
-      title: "AI Chatbot (OpneAI)",
+      title: "AI Chatbot (OpenAI)",
       href: "https://github.com/sandeep-guttula/ai-chat-bot",
       dates: "Dec 2023 - Dec 2023",
       active: true,
