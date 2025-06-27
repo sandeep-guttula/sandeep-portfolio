@@ -78,9 +78,9 @@ export const DATA = {
       href: "https://www.growstack.ai/",
       badges: [],
       location: "Remote",
-      title: "Software Developer",
+      title: "Software Developer Intern",
       logoUrl: "/growstacklogo.png",
-      start: "April 2025",
+      start: "May 2025",
       end: "Present",
       description:
         "At Growstack, I’m primarily responsible for developing backend systems and AI agents that power the company’s core SaaS products. My work involves building RESTful APIs, integrating with AI models, managing scalable infrastructure, and maintaining performance-focused codebases. I collaborate closely with frontend developers and product teams to deliver seamless user experiences while ensuring backend reliability. I also contribute to architectural decisions, evaluate new technologies, and help optimize deployments for speed and resilience.",
@@ -93,7 +93,7 @@ export const DATA = {
       title: "Backend Developer",
       logoUrl: "/auzmor.png",
       start: "July 2024",
-      end: "May 2025",
+      end: "March 2025",
       description:
         "As part of the Auzmor Learn product team, I worked on both backend and frontend features for a learning management system used by enterprise clients. I built responsive UIs with React and designed scalable APIs with Ruby on Rails. I was involved in optimizing MySQL queries to reduce load times and improve data fetch efficiency. I collaborated with cross-functional teams to design, implement, and test new features, ensuring production readiness and a smooth end-user experience across platforms.",
     },
