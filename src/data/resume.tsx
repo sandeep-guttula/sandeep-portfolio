@@ -171,12 +171,12 @@ export const DATA = {
         {
           type: "npm",
           href: "https://www.npmjs.com/package/colorupjs",
-          // icon: <Icons.package className="size-3" />,
+          icon: <Icons.npm className="size-3" />,
         },
                 {
           type: "Documentation",
           href: "https://sandeep-1.gitbook.io/colorupjs",
-          // icon: <Icons.package className="size-3" />,
+          icon: <Icons.book className="size-3" />,
         },
       ],
       image: "/colorupjs.avif",
