@@ -150,6 +150,39 @@ export const DATA = {
   ],
   projects: [
     {
+      title: "ColorUpJS: Color Utility Library (Under Development)",
+      href: "https://sandeep-1.gitbook.io/colorupjs",
+      dates: "Jun 2025 - Jun 2025",
+      active: true,
+      description:
+        "ColorUpJS is a modern, extensible TypeScript color utility library built for design systems, frontend apps, and theming engines. It supports advanced color conversions (HEX, RGB, HSL, HSV), color analysis (luminance, contrast), palette generation, accessibility tools, and CSS token exports. The architecture is modular and tree-shakable with a plugin-ready core, making it suitable for both lightweight web apps and full-scale design tooling.",
+      technologies: [
+        "TypeScript",
+        "Node.js",
+        "Rollup",
+        "Color Theory",
+        "Accessibility (WCAG)",
+        "Modular Architecture",
+        "Testing Library",
+        "ESLint",
+        "Prettier"
+      ],
+      links: [
+        {
+          type: "npm",
+          href: "https://www.npmjs.com/package/colorupjs",
+          // icon: <Icons.package className="size-3" />,
+        },
+                {
+          type: "Documentation",
+          href: "https://sandeep-1.gitbook.io/colorupjs",
+          // icon: <Icons.package className="size-3" />,
+        },
+      ],
+      image: "/colorupjs.avif",
+      video: "",
+    },
+    {
       title: "Donor Spot (Mobile App)",
       href: "https://github.com/sandeep-guttula/donor-spot-alpha",
       dates: "Feb 2024 - Mar 2024",
