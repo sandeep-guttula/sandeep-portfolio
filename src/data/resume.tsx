@@ -83,7 +83,7 @@ export const DATA = {
       start: "May 2025",
       end: "Present",
       description:
-        "At Growstack, I’m primarily responsible for developing backend systems and AI agents that power the company’s core SaaS products. My work involves building RESTful APIs, integrating with AI models, managing scalable infrastructure, and maintaining performance-focused codebases. I collaborate closely with frontend developers and product teams to deliver seamless user experiences while ensuring backend reliability. I also contribute to architectural decisions, evaluate new technologies, and help optimize deployments for speed and resilience.",
+        "At Growstack, I work as a Solutions Engineer focused on designing and orchestrating LLM-based agent workflows for enterprise clients. Using a visual, node-based interface similar to n8n, I build intelligent automation flows that integrate language models, tools, memory, and third-party APIs. I collaborate with cross-functional teams to transform complex business requirements into scalable AI-driven solutions, ensuring reliability, clarity, and ease of deployment. My work plays a key role in helping clients operationalize AI in real-world processes.",
     },
     {
       company: "Auzmor",
