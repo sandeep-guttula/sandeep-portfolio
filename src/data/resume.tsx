@@ -31,7 +31,7 @@ export const DATA = {
     "TailwindCSS",
     "Postman",
     "Figma",
-    "Git"
+    "Git",
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
@@ -78,7 +78,7 @@ export const DATA = {
       href: "https://www.growstack.ai/",
       badges: [],
       location: "Remote",
-      title: "Software Developer Intern",
+      title: "Solutions Engineer",
       logoUrl: "/growstacklogo.png",
       start: "May 2025",
       end: "Present",
@@ -165,7 +165,7 @@ export const DATA = {
         "Modular Architecture",
         "Testing Library",
         "ESLint",
-        "Prettier"
+        "Prettier",
       ],
       links: [
         {
@@ -173,7 +173,7 @@ export const DATA = {
           href: "https://www.npmjs.com/package/colorupjs",
           icon: <Icons.npm className="size-3" />,
         },
-                {
+        {
           type: "Documentation",
           href: "https://sandeep-1.gitbook.io/colorupjs",
           icon: <Icons.book className="size-3" />,
@@ -273,7 +273,7 @@ export const DATA = {
       links: [],
       image: "/openai.avif",
       video: "",
-    }
+    },
   ],
   hackathons: [
     // {
@@ -297,78 +297,92 @@ export const DATA = {
     {
       title: "AWS Cloud Foundations",
       subtitle: "Amazon Web Services",
-      logoUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMG6QtFiFWPugbhk_Exio8BSEfzAdjulSwlg&s",
+      logoUrl:
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMG6QtFiFWPugbhk_Exio8BSEfzAdjulSwlg&s",
       href: "",
       period: "2023",
       badges: ["Cloud"],
-      description: "Covered core AWS services, architecture principles, and cloud security concepts.",
+      description:
+        "Covered core AWS services, architecture principles, and cloud security concepts.",
     },
     {
       title: "Postman API Fundamentals Student Expert",
       subtitle: "Postman",
-      logoUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-TB9d5YXwtKhv4NWbpeTBVveYvcxu9gMJng&s",
+      logoUrl:
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-TB9d5YXwtKhv4NWbpeTBVveYvcxu9gMJng&s",
       href: "",
       period: "2023",
       badges: ["API", "Postman"],
-      description: "Certified in API development, documentation, testing, and automation using Postman.",
+      description:
+        "Certified in API development, documentation, testing, and automation using Postman.",
     },
     {
       title: "AZ-900: Microsoft Azure Fundamentals",
       subtitle: "Microsoft",
-      logoUrl: "https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg",
+      logoUrl:
+        "https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg",
       href: "",
       period: "2023",
       badges: ["Cloud", "Azure"],
-      description: "Gained knowledge in cloud concepts, Azure services, governance, and pricing models.",
+      description:
+        "Gained knowledge in cloud concepts, Azure services, governance, and pricing models.",
     },
     {
       title: "AZ-104: Microsoft Azure Administrator",
       subtitle: "Microsoft",
-      logoUrl: "https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg",
+      logoUrl:
+        "https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg",
       href: "",
       period: "2024",
       badges: ["Azure", "Cloud Ops"],
-      description: "Validated skills in managing Azure resources, identities, storage, and virtual networks.",
+      description:
+        "Validated skills in managing Azure resources, identities, storage, and virtual networks.",
     },
     {
       title: "Foundations of UX Design",
       subtitle: "Google",
-      logoUrl: "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera.s3.amazonaws.com/media/coursera-rebrand-logo-square.png?auto=format%2Ccompress&dpr=1",
+      logoUrl:
+        "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera.s3.amazonaws.com/media/coursera-rebrand-logo-square.png?auto=format%2Ccompress&dpr=1",
       href: "",
       period: "2022",
       badges: ["UX", "Design"],
-      description: "Explored user research, wireframing, prototyping, and accessibility in UX design.",
+      description:
+        "Explored user research, wireframing, prototyping, and accessibility in UX design.",
     },
   ],
   achievements: [
     {
       title: "Google India DSC Co-Lead",
       subtitle: "Developer Student Clubs",
-      logoUrl: "https://miro.medium.com/v2/resize:fit:1185/1*8J1TPCS6dLEYG9W-XJyr-Q.jpeg",
+      logoUrl:
+        "https://miro.medium.com/v2/resize:fit:1185/1*8J1TPCS6dLEYG9W-XJyr-Q.jpeg",
       period: "2022-2023",
       badges: ["Leadership", "Community"],
-      description: "Orchestrated and delivered 11+ tech seminars, mentoring over 800 students on development and cloud skills.",
-      href: ""
+      description:
+        "Orchestrated and delivered 11+ tech seminars, mentoring over 800 students on development and cloud skills.",
+      href: "",
     },
     {
       title: "Hacktoberfest Contributor",
       subtitle: "DigitalOcean",
-      logoUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3sklvmSTiWQo89AIt2IEqRizfdmeApWwSxA&s",
+      logoUrl:
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3sklvmSTiWQo89AIt2IEqRizfdmeApWwSxA&s",
       period: "2023",
       badges: ["Open Source", "GitHub"],
-      description: "Earned a Hacktoberfest badge for contributing to open-source repositories on GitHub.",
-      href: ""
-
+      description:
+        "Earned a Hacktoberfest badge for contributing to open-source repositories on GitHub.",
+      href: "",
     },
     {
       title: "Java Programming Mentor",
       subtitle: "Skill Active",
-      logoUrl: "https://cdn.iconscout.com/icon/free/png-256/free-java-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-language-pack-logos-icons-1174953.png",
+      logoUrl:
+        "https://cdn.iconscout.com/icon/free/png-256/free-java-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-language-pack-logos-icons-1174953.png",
       period: "2022",
       badges: ["Mentorship", "Java"],
-      description: "Created and mentored a Java Programming course on Skill Active platform for aspiring developers.",
-      href: ""
-
-    }
-  ]
+      description:
+        "Created and mentored a Java Programming course on Skill Active platform for aspiring developers.",
+      href: "",
+    },
+  ],
 } as const;
